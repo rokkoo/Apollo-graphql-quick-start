@@ -1,0 +1,3 @@
+# Start server 🚀
+
+- npm start
